@@ -21,7 +21,6 @@
 - Pressing B to change legacy mode (Debug Keybind I forgot about)
 
 # Demo v0.6.1 - May 27 2024
-
 ## HaxenFilp Work
 - Reorganized Change-logs (they are all now in different comments)
 - Removed Non-Scratch Extensions from the code (I'm pretty sure, the project should be able to run on regular scratch now!)
