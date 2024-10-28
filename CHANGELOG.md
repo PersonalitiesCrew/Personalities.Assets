@@ -1,5 +1,19 @@
-# Demo v0.6.2 - May 28 2024
+# Demo v0.6.3 - 10/28/2024
 
+## Added
+- more obvious Demo Versioning to Watermark
+- Instructions on tutorial slide 1 for navigation
+
+## Fixed
+- Title Logo Duping
+- Character Select Loading before Fade in
+- Level Select appearing on Character Select
+- Blank screen when Level Select is keyboard Selected but Character Select is touch screen selected
+
+## Removed
+- `Rank` Sprite
+
+# Demo v0.6.2 - May 28 2024
 ## Added
 - 56 new keys to Level 6 Fighting Inputs
 - Level 6 Health Drain/Gain
