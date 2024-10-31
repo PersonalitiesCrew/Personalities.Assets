@@ -162,7 +162,7 @@
 - Fixed Opponent Hands getting stuck on the walls
 
 ## LittleBlueGamer Work:
--Added outline to the level: ORIGINALLY GONNA USE PEN BUT THE OP IN THE BACKGROUND GOT IN THE WAY (edit: had a solution)
+- Added outline to the level: ORIGINALLY GONNA USE PEN BUT THE OP IN THE BACKGROUND GOT IN THE WAY (edit: had a solution)
 - Overhauled Jump Sound
 - Added Glow to Bomb and Clock explosions:
 - Added Timmy from Roltycore and Roltycore 2: no reason
