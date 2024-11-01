@@ -1,5 +1,7 @@
 *.crswap
 *.zip
 *.exe
+*.webm
+*.mp4
 exports/
 trailers/
