@@ -1,3 +1,15 @@
+# Demo v0.7.1 - 11/2/2024
+## Content
+- Fixed Background being Black during any Gameplay State
+- Fixed Level 5 Part 2 Hand Spam
+- Fixed Freeplay BG Being invisible when entering from gameplay
+- Fixed Character Icons being invisible
+- Fixed Missing Level 5 Part 2 Opponent
+- Fixed Level Select Control Doodles being Visible when entering from gameplay
+- Changed Main Menu Logo
+- Removed Main Menu Logo Spinning
+- Fixed Background changing colors even though Freeplay is inactive
+
 # Demo v0.7 - 11/2/2024
 ## Content
 - Added Loading Screen which now overhauls loading to happen with that menu
