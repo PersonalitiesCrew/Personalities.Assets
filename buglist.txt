@@ -1,0 +1,5 @@
+- BG Black during gameplay
+- Level 5 Part 2 Hand Spam
+- Freeplay BG invisible when entering after gameplay death or win
+- Backdrop changing colors when entering song even though its black
+- Level Select doodles appearing when returning from gameplay (death or win no matter)
