@@ -1,5 +1,40 @@
-# Demo v0.6.3 - 10/28/2024
+# Demo v0.7 - 11/2/2024
+## Content
+- Added Loading Screen which now overhauls loading to happen with that menu
+- Added Little Instruction Doodles to Level Select
+- Changed size of the "Big" costume accidentally so the Level Select Icons might be smaller or slightly bigger
+- Changed Brightness Change value of Level Select Levels so it's more noticeable
+- Fixed Bug where BGMusic wouldn't be the default music on start
+- "Added" Character dependent Levels
+  - Haxen has stages 1-6, corrupt, and experiment
+  - Timmy has rolty and nugget-bot
+  - Tj has stage 1 (TJ MIX)
+  - Djotta has stage 1 and stage 2 (DJ MIX)
+- Added Character Icons to freeplay
+- Fixed Health Bar going above 100% in stage6
+- Added Easier Method of Going to the Character Select from the Freeplay: Press the Freeplay Character Icons (currently disabled)
+- Changed Freeplay Menu BG
+- Changed Watermark effects
+- Changed stage4 background
+- Disabled Character Select (this is to rework it and finish the character-dependent levels)
+- Changed Main Menu Layout
+- Added Clean Transition to and from the Freeplay from the Main Menu
+- Added Clean Transition to and from the Level Select from the Main Menu
 
+## Code Changes
+- variables relating to saving are now Private Variables
+- Renamed PAUSE variable to PAUSED
+- Hopefully Fixed Gradient Fade Fixing Issue?
+- Added "CharMixes" Sprite controlling everything relating to Character Mixes
+- Added "CharSwap - Set Mix" Broadcast for Freeplay Character Mix stuff
+- Freeplay CAM Y CHANGE variable is now adjustable on menu startup depending on the length of the Freeplay list
+- Removed Unused Audio Tracks from the Backdrop
+- Removed more rank stuff
+- Changed how the op chooses it's Sprite in the Freeplay menu through the game level being set in the forever loop
+- Added several conditionals for FREEPLAY LIST length
+- Hopefully fixed possibility of Clone Duping with the new Smooth Transitions???
+
+# Demo v0.6.3 - 10/28/2024
 ## Added
 - more obvious Demo Versioning to Watermark
 - Instructions on tutorial slide 1 for navigation
