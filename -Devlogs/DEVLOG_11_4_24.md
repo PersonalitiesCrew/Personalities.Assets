@@ -14,7 +14,7 @@ and Update B - we workin on it
 if Update B is done first
 it just sits in the background
 waiting to be enabled and probably
-get's quallity of life additions because why not y'know?
+get quality of life additions because why not y'know?
 
 and yeah thats basically it.
 
@@ -37,4 +37,4 @@ v0.7.x - QOL Stuff
 v0.8.x - Scratch Support stops. We get medals, bigger team, no idea on the comic thing.
 v0.9.x - Reworks.
 
-and that's your roadmap for today. Hehe.
+and that's your roadmap for today. He he.
