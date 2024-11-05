@@ -1,3 +1,17 @@
+# Demo v0.7.2 - 11/5/2024
+## Content
+- Overhauled Main Menu with new menu assets and a new logo
+- Removed Legacy Mode Option
+- Added Star to the Freeplay Menu that is darkened unless you have played the selected level
+- Fixed Mini Character Icon being Invisible in freeplay
+- Added New Haxen Assets
+
+## Code Changes
+- Overhauled `title` sprite code (features my new better style of coding with more polished and easily modifiable)
+- Removed any code (I could find) relating to Legacy Mode
+- Added LANGUAGE variable that controls the New Main Menu Assets (not the Logo assets)
+- Renamed SOUNDS variable to S-SOUNDS (its the settings variable)
+
 # Demo v0.7.1 - 11/2/2024
 ## Content
 - Fixed Background being Black during any Gameplay State
