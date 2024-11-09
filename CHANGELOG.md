@@ -1,3 +1,19 @@
+# Demo v0.7.3 - 11/9/2024
+## Content
+- Overhauled Level Select Menu
+- Renamed Level Select Menu to Story Menu
+- Story Menu now automatically sets your difficulty to hard! Be aware of this!
+- Added Gameover Animations to Haxen
+- Changed Size of Gameover "GG"
+- Gameover "GG" now follows Haxen after he dies (if there is a Gameover animation playing)
+- Fixed bug where you could skip Gameover as soon as you get there 
+
+## Code Changes
+- Renamed TOTAL LEVELS variable to TOTAL PHASES
+- Renamed GameOver - Reset BG Music Broadcast to GameOver - End
+- Renamed Level - # broadcasts to Level - phase# (levels 1-6)
+- Replaced (hopefully) every instance of original level numbers with phase, and then the number
+
 # Demo v0.7.2 - 11/5/2024
 ## Content
 - Overhauled Main Menu with new menu assets and a new logo
