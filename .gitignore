@@ -1,7 +1,8 @@
+# dev shit
+PrivateDevStuff
+
+# file size
 *.crswap
 *.zip
-*.exe
-*.webm
 *.mp4
-exports/
-trailers/
+*.webm
